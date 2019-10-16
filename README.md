@@ -1,10 +1,10 @@
 # Shopping
 
 [EN_US]
-Shopping is a project deleoped with the course 7186 - Desenvolvendo apps nativos escaláveis com Flutter, BloC e Provider disponible on the site balta.io by André Baltieri, Microsoft MVP, doing this course I have the motivation to learn about the projeto structure BloC and the Provider, a state management used in FLutter.
+Shopping is a project deleoped with the course 7186 - Desenvolvendo apps nativos escaláveis com Flutter, BloC e Provider disponible on the site balta.io by André Baltieri, Microsoft MVP, doing this course I have the motivation to learn about the projeto structure BloC and the Provider, a state management used in Flutter. Soon I update this app with more Cupertino Design used to create apps with iOS design.
 
 [PT-BR]
-O Shopping é um projeto desenvolvido com o curso 7186 - Desenvolvendo aplicativos nativos escaláveis com Flutter, BloC e Provider disponível no site balta.io por André Baltieri, MVP da Microsoft. Ao fazer este curso, tenho a motivação para aprender sobre a estrutura do projeto BloC e o Provider, um gerenciamento de estado usado no FLutter.
+O Shopping é um projeto desenvolvido com o curso 7186 - Desenvolvendo aplicativos nativos escaláveis com Flutter, BloC e Provider disponível no site balta.io por André Baltieri, MVP da Microsoft. Ao fazer este curso, tenho a motivação para aprender sobre a estrutura do projeto BloC e o Provider, um gerenciamento de estado usado no FLutter. Logo farei o design Cupertino para o App, usando assim de Widgets e icones próprios para iOS!
 
 ## Getting Started
 
