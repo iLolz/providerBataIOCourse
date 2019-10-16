@@ -1,10 +1,16 @@
-# shopping
+# Shopping
 
-A new Flutter project.
+[EN_US]
+Shopping is a project deleoped with the course 7186 - Desenvolvendo apps nativos escaláveis com Flutter, BloC e Provider disponible on the site balta.io by André Baltieri, Microsoft MVP, doing this course I have the motivation to learn about the projeto structure BloC and the Provider, a state management used in FLutter.
+
+[PT-BR]
+O Shopping é um projeto desenvolvido com o curso 7186 - Desenvolvendo aplicativos nativos escaláveis com Flutter, BloC e Provider disponível no site balta.io por André Baltieri, MVP da Microsoft. Ao fazer este curso, tenho a motivação para aprender sobre a estrutura do projeto BloC e o Provider, um gerenciamento de estado usado no FLutter.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+You can see that course on https://balta.io/
 
 A few resources to get you started if this is your first Flutter project:
 
